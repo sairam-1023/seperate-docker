@@ -4,3 +4,6 @@ scikit-learn
 numpy
 pandas
 pydantic
+passlib
+python-jose
+sqlalchemy
